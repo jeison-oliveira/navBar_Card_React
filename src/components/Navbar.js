@@ -6,7 +6,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Navbar
+            Loja Virtual
           </a>
           <button
             className="navbar-toggler"
@@ -21,16 +21,6 @@ class Navbar extends Component {
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">
-                  Login
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">
-                  Signup
-                </a>
-              </li>
               <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"
@@ -48,7 +38,7 @@ class Navbar extends Component {
                     </a>
                   </li>
                   <li>
-                    <hr className="dropdown-divider"></hr>
+                    <hr className="dropdown-divider" />
                   </li>
                   <li>
                     <a className="dropdown-item" href="#">
@@ -56,7 +46,7 @@ class Navbar extends Component {
                     </a>
                   </li>
                   <li>
-                    <hr className="dropdown-divider"></hr>
+                    <hr className="dropdown-divider" />
                   </li>
                   <li>
                     <a className="dropdown-item" href="#">
@@ -64,6 +54,16 @@ class Navbar extends Component {
                     </a>
                   </li>
                 </ul>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">
+                  Login
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">
+                  Signup
+                </a>
               </li>
             </ul>
           </div>
