@@ -7,22 +7,22 @@ class App extends Component {
       <div className="container text-center">
         <Navbar />
         <div class="row">
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             <Card />
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             <Card />
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             <Card />
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             <Card />
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             <Card />
           </div>
-          <div class="col-sm-2">
+          <div class="col-sm-4">
             <Card />
           </div>
         </div>
