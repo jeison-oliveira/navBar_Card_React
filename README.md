@@ -8,6 +8,10 @@ Crie um Componente de Navegação que possa ser reutilizável em várias página
 
 Também deve ser criado uma área na página principal para apresentação dos produtos cadastrados. O card deve apresentar o nome e preço do produto. Devem ser apresentados 6 cards.
 
+# Vídeo Explicativo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/35bef44e67024d848a8a4b1573f15d10?sid=14f1ba46-0532-4f20-9fc6-7cd0cc086e95" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 # Relatório dos Commits
 
 ### Initial commit (e1762159549cfb6cd67ad1e0adbcb38fcf7842ba)
@@ -34,15 +38,15 @@ Commit realizado após o fim da atividade de adição do código responsável pe
 
 Commit realizado após o fim da atividade de criação do relatório em formato de README.md.
 
-## Começando
+# Começando
 
 Estas instruções permitirão que você obtenha uma cópia do projeto e a execute em sua máquina local para fins de desenvolvimento e teste.
 
-## Pré-requisitos
+# Pré-requisitos
 
 Você precisa ter o Node.js e o npm instalados em sua máquina. Este projeto foi construído usando Node.js versão v18.16.0 e npm versão 9.5.1.
 
-## Instalação
+# Instalação
 
 - Clone o repositório:
 
@@ -72,7 +76,7 @@ npm start
 
 Isso iniciará o compilador react-scripts e abrirá automaticamente uma tela do seu navegador padrão com a página inicial do projeto.
 
-## Tecnologias
+# Tecnologias
 
 - **Node.js** - Ambiente de execução JavaScript
 - **React** - Framework frontend de aplicação web
@@ -81,7 +85,7 @@ Isso iniciará o compilador react-scripts e abrirá automaticamente uma tela do 
 
 - [@jeison-oliveira](https://github.com/jeison-oliveira)
 
-## Colaboradoras
+# Colaboradoras
 
 - [@natacshamelo](https://github.com/natacshamelo)
 - [@julianaCastro](https://github.com/julianaCastro)
