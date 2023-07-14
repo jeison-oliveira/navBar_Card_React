@@ -10,7 +10,7 @@ Também deve ser criado uma área na página principal para apresentação dos p
 
 # Vídeo Explicativo
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/35bef44e67024d848a8a4b1573f15d10?sid=14f1ba46-0532-4f20-9fc6-7cd0cc086e95" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- [Loom](https://www.loom.com/embed/35bef44e67024d848a8a4b1573f15d10?sid=14f1ba46-0532-4f20-9fc6-7cd0cc086e95)
 
 # Relatório dos Commits
 
