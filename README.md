@@ -8,6 +8,20 @@ Crie um Componente de Navegação que possa ser reutilizável em várias página
 
 Também deve ser criado uma área na página principal para apresentação dos produtos cadastrados. O card deve apresentar o nome e preço do produto. Devem ser apresentados 6 cards.
 
+O que deve ser enviado?
+
+- O link de um vídeo de até 1 minuto gravado com a ferramenta Loom, onde você se apresenta e explica o funcionamento do código e os passos executados para a resolução da tarefa.
+
+- Um relatório legível contendo os commits executados e comentados, isto é, o trace executado na tarefa.
+
+- Deve ser dado permissão de acesso ao seu repositório Git para os usuários natacshamelo e julianaCastro.
+
+Critérios de Avaliação - 10,0 pontos:
+
+Legibilidade: As outras pessoas conseguem entender o que foi feito. (1,0 ponto)
+Corretude: Segui os critérios da tarefa e está funcionando! (4,5 pontos)
+Completude: Cumpri todos os requisitos da tarefa! (4,5 pontos)
+
 # Vídeo Explicativo
 
 - [Loom](https://www.loom.com/embed/35bef44e67024d848a8a4b1573f15d10?sid=14f1ba46-0532-4f20-9fc6-7cd0cc086e95)
