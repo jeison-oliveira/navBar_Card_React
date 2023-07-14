@@ -1,6 +1,6 @@
 # Projeto navBar_Card_React
 
-Repositório Github responsável Atividade avaliativa da disciplina React do curso WebAcademy UFAM.
+Repositório Github da atividade avaliativa da disciplina React do curso WebAcademy UFAM.
 
 # Descrição da Atividade
 
@@ -29,6 +29,10 @@ Commit realizado após o início da atividade de adição do código responsáve
 ### Finalização dos Cards (42c3ac407b5e43212a296e4f909ba02238d173b2)
 
 Commit realizado após o fim da atividade de adição do código responsável pela criação do componente **Card** do Bootstrap.
+
+### Adicionando o relatório e outras instruções no README.md
+
+Commit realizado após o fim da atividade de criação do relatório em formato de README.md.
 
 ## Começando
 
