@@ -4,9 +4,7 @@ Repositório Github da atividade avaliativa da disciplina React do curso WebAcad
 
 # Descrição da Atividade
 
-Crie um Componente de Navegação que possa ser reutilizável em várias páginas. Ele deve conter as seguintes opções: Login, Signup e Produtos. A opção de Produtos deverá ter os seguintes subitens: Cadastrar, Editar e Deletar. Este componente deve ser responsivo.
-
-Também deve ser criado uma área na página principal para apresentação dos produtos cadastrados. O card deve apresentar o nome e preço do produto. Devem ser apresentados 6 cards.
+Reescreva os componentes da [Atividade](https://colabweb.ufam.edu.br/mod/assign/view.php?id=46722) utilizando props.
 
 ## O que deve ser enviado?
 
@@ -28,25 +26,13 @@ Também deve ser criado uma área na página principal para apresentação dos p
 
 # Relatório dos Commits
 
-### Initial commit (e1762159549cfb6cd67ad1e0adbcb38fcf7842ba)
+### Issue: Reescrever os componentes da Atividade utilizando props
 
-Primeiro commit, após a criação do repositório Git, que adiciona o arquivo README.md
+Primeiro passo foi criar uma Issue no GitHub solicitando a reescrita dos componentes da Atividade utilizando props. A partir desta Issue foi criada a branch feature/props.
 
-### Portado o código do my-app para o exercício de fixação (52be83f3a1c45fd7ff0cbe6de826b9001e29a75a)
+### Componentes reescritos utilizando props (928652673201bef44a77015517a44b78910d5773)
 
-Commit onde o código do projeto my-app, utilizado como exemplo em sala de aula, foi adicionado ao repositório para posterior modificação e adequação.
-
-### Componente Navbar criado (dd8c389411d5fbb47b2706f623cc8c5b7e25bfd2)
-
-Commit realizado após a adição do código responsável pela criação do componente **Navbar** do Bootstrap.
-
-### Iniciando o desenvolvimento do Card (676afc9e414e58bb4cf5b9c2757652c0caaafdd2)
-
-Commit realizado após o início da atividade de adição do código responsável pela criação do componente **Card** do Bootstrap.
-
-### Finalização dos Cards (42c3ac407b5e43212a296e4f909ba02238d173b2)
-
-Commit realizado após o fim da atividade de adição do código responsável pela criação do componente **Card** do Bootstrap.
+Primeiro commit, após a criação da branch feature/props. Neste commit foi finalizada a reescrita dos códigos utilizando props.
 
 ### Adicionando o relatório e outras instruções no README.md
 
@@ -74,6 +60,12 @@ git clone https://github.com/jeison-oliveira/navBar_Card_React.git
 cd navBar_Card_React
 ```
 
+- No terminal, digite o seguinte comando para mudar da branch **main** para a **feature/props**:
+
+```sh
+git checkout feature/props
+```
+
 - Instale as dependências do projeto:
 
 ```sh
@@ -94,8 +86,9 @@ Isso iniciará o compilador react-scripts e abrirá automaticamente uma tela do 
 
 - **Node.js** - Ambiente de execução JavaScript
 - **React** - Framework frontend de aplicação web
+- **Bootstrap** - Framework frontend de aplicação web
 
-## Autor
+# Autor
 
 - [@jeison-oliveira](https://github.com/jeison-oliveira)
 
