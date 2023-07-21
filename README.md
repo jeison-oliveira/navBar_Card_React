@@ -22,7 +22,7 @@ Reescreva os componentes da [Atividade](https://colabweb.ufam.edu.br/mod/assign/
 
 # Vídeo Explicativo
 
-- [Loom](https://www.loom.com/embed/35bef44e67024d848a8a4b1573f15d10?sid=14f1ba46-0532-4f20-9fc6-7cd0cc086e95)
+- [Loom](https://www.loom.com/embed/709b41948e954ebca50ef7ddc33536df?sid=535a5a92-3af6-4183-9493-d853c1319b88)
 
 # Relatório dos Commits
 
